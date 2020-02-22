@@ -1,0 +1,8 @@
+com\capg\onlinewallet\App.class
+com\capg\onlinewallet\dao\WalletAccountDao.class
+com\capg\onlinewallet\dao\WalletAccountDaoImpl.class
+com\capg\onlinewallet\ui\ExistingException.class
+com\capg\onlinewallet\ui\WalletAccountUi.class
+com\capg\onlinewallet\service\WalletAccountServiceImpl.class
+com\capg\onlinewallet\model\WalletAccount.class
+com\capg\onlinewallet\service\WalletAccountService.class
